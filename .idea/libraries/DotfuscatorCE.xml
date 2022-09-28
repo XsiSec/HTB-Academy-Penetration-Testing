@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DotfuscatorCE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/privilege-escalation-awesome-scripts-suite/winPEAS/winPEASexe/Dotfuscator/DotfuscatorCE.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
